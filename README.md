@@ -2,10 +2,6 @@
 # 🎓 Lab Rescheduling Management System
 
 <div align="center">
-  <img src="topic.png" alt="Lab_Rescheduling">
-</div><br><br>
-
-<div align="center">
   <img src="Interface.jpg" alt="Lab_Rescheduling">
 </div><br>
 
@@ -164,5 +160,5 @@ MIT License – see the [LICENSE](LICENSE) file
 ---
 <br>
 <div align="center">
-  <img src="brand.png" alt="Lab_Rescheduling">
+  <img src="brand.png" alt="Lab_Rescheduling" style="width: 200px; height: auto;">
 </div><br><br>
