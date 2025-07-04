@@ -10,7 +10,7 @@
   - **Students**: View schedules, request reschedules, check status, view attendance  
   - **Coordinators**: Create/manage schedules, review & forward requests, monitor attendance  
   - **Instructors**: View assigned labs, schedule approved reschedules, update attendance  
-  - **Admins**: Oversee all schedules & requests, generate logs  
+  - **Admin**: Oversee all schedules & requests, generate logs  
 - 📅 **Dynamic Scheduling**  
   - Semester→subject filtering  
   - Course code as the primary identifier  
@@ -154,4 +154,4 @@ MIT License – see the [LICENSE](LICENSE) file
 ## ✉️ Contact
 
 **GitHub:** [Dewmika Senarathna](https://github.com/DewmikaSenarathna)  
-**Project Link:** [https://github.com/DewmikaSenarathna/Lab_Rescheduling.git](https://github.com/DewmikaSenarathna/Lab_Rescheduling_Management_System.git)
+**Project Link:** [https://github.com/DewmikaSenarathna/Lab_Rescheduling.git](https://github.com/DewmikaSenarathna/lab_rescheduling.git)
