@@ -1,5 +1,10 @@
 
 # 🎓 Lab Rescheduling Management System
+
+<div align="center">
+  <img src="topic.png" alt="Lab_Rescheduling">
+</div><br><br>
+
 <div align="center">
   <img src="Interface.jpg" alt="Lab_Rescheduling">
 </div><br>
@@ -155,3 +160,9 @@ MIT License – see the [LICENSE](LICENSE) file
 
 **GitHub:** [Dewmika Senarathna](https://github.com/DewmikaSenarathna)  
 **Project Link:** [https://github.com/DewmikaSenarathna/Lab_Rescheduling.git](https://github.com/DewmikaSenarathna/lab_rescheduling.git)
+
+---
+<br>
+<div align="center">
+  <img src="brand.png" alt="Lab_Rescheduling">
+</div><br><br>
