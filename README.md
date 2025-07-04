@@ -160,5 +160,5 @@ MIT License – see the [LICENSE](LICENSE) file
 ---
 <br>
 <div align="center">
-  <img src="brand.png" alt="Lab_Rescheduling" style="width: 200px; height: auto;">
+  <img src="brand.png" alt="Lab_Rescheduling" style="width: 350px; height: auto;">
 </div><br><br>
